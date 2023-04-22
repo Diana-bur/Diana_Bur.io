@@ -5,4 +5,4 @@
 - В файле html ставим ! и нажав Enter получаем шаблон кода страницы сайта
 - Ввели script и enter
 - Между ними function выбрать второй и enter
-- Называем функцию say_hi в ней вводим alert "hello world"
+- Называем функцию say_hi в ней вводим alert "hello world!"
